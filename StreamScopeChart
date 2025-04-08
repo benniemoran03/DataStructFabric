@@ -1,0 +1,23 @@
+
+---
+
+### **4. 25_StreamScopeChart**  
+**Description:**  
+Live line chart visualization for continuous numeric streams or API outputs.
+
+#### **README.md**
+```markdown
+# StreamScopeChart - Realtime Graph Generator
+
+StreamScopeChart renders clean, real-time line graphs for monitoring sensor input, simulations, or metrics.
+
+## Features
+- Live updates  
+- Scrollable chart  
+- Matplotlib-based  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_StreamScopeChart.git
+cd 25_StreamScopeChart
+python visualize.py
